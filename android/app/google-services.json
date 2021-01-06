@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114856231517",
+    "project_id": "baljs-f89c3",
+    "storage_bucket": "baljs-f89c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114856231517:android:fdaa0f8991c158d72743b4",
+        "android_client_info": {
+          "package_name": "com.keretaapp.keretaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114856231517-a48f71ej4oqk2r6ev0ke6l36aqj5h61v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keretaapp.keretaapp",
+            "certificate_hash": "0d885fd9f8d7698d820d63b0db5bd327126bf9bd"
+          }
+        },
+        {
+          "client_id": "114856231517-dus8hgvmqafl30fg32g06or8rn05pmkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhNdXUPTpV4uXerRvjwwRnIfWsXto9BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114856231517-dus8hgvmqafl30fg32g06or8rn05pmkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
